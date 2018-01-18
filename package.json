@@ -1,0 +1,8 @@
+{
+  "name": "iNarute Music",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "iNarutoSquidx aka Narute (as my friends call me on discord) aka Artyom Bubulchuk",
+  "dependencies": {}
+}
